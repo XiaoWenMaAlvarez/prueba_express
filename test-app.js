@@ -8,4 +8,3 @@ test('First test', (t) => {
 test('Second test', (t) => {
   assert.equal(1 + 1, 5)
 })
-
